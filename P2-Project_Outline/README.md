@@ -31,8 +31,9 @@ As a concerned parent who is figuring out virtual learning for school going kids
 - Hibernate
 
 ### What I'll Have to Learn
-To incorporate social media. 
-Nice to have- incorporate Cloud (AWS ecosystem)
+- To incorporate social media. 
+- Nice to have- incorporate Cloud (AWS ecosystem)
 
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/Z6uO3Xmc
