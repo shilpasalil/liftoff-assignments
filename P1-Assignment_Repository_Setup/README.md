@@ -2,9 +2,15 @@
 
 This repository is the base repo for all assignments in LaunchCode's [Liftoff](https://education.launchcode.org/liftoff/) course.
 
+Completed
+
 ## Getting Started
 
 If you are enrolled in the Liftoff program, fork this repository and then clone it to your computer. Have a look through the directories. Each one corresponds to an assignment, and the README will provide additional details on the tasks to be carried out.
+
+
+completed
+
 
 ## Enable GitHub Issues
 
@@ -17,6 +23,13 @@ After forking the repository, you will need to *enable GitHub Issues* for your n
 
 ![Enable GitHub Issues](github_issues.png)
 
+
+completed
+
+
 ## Submit Your Forked Repo URL to Canvas
 
 Once you have forked your repo and enabled GitHub Issues, submit the URL of your new repo to Canvas to complete Assignment 1.
+
+
+completed
