@@ -9,4 +9,6 @@ This assignment will get you set up and rolling with a basic project. By the end
 ### Project Repository
 Change this text with a link to your project repository here. Also add a README.md file to your project repository.
 
+8/22/2020 - Created "Hello World" project
+
 https://github.com/shilpasalil/Virtual-Learing-Resources.git
